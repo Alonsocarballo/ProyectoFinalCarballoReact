@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.CartItemCont {
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    padding: 25px;
+    margin: 15px;
+    border: solid black 1px;
+    
+}
